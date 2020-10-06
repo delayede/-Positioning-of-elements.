@@ -13,25 +13,7 @@
 
   
 }
-.item-d { 
-	justify-self: left;
-	margin-top: 130px;
-	background-color: yellow;
-    width: 95%;
-    height: 70px;
-    border: 2px solid #2d2525;
 
-}
-.item-c {
-	justify-self: left;
-	 background-color: green;
-    width: 95%;
-    height: 220px;
-    border: 2px solid #2d2525;
-    grid-row-start: row1-start;
-
-
-}
 .item-b {
 	background-color: blue;
     width: 30%;
@@ -39,6 +21,25 @@
     border: 2px solid #2d2525;
 
 }
+
+.item-c {
+	justify-self: left;
+	 background-color: green;
+    width: 95%;
+    height: 220px;
+    border: 2px solid #2d2525;
+    grid-row-start: row1-start;
+}
+
+.item-d { 
+	justify-self: left;
+	margin-top: 130px;
+	background-color: yellow;
+    width: 95%;
+    height: 70px;
+    border: 2px solid #2d2525;
+}
+
 
 body{
 	margin: 20px;
